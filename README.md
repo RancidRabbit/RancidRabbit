@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RancidRabbit
-- 👀 I’m interested in ...
+- 👀 I’m interested in Code improving
 - 🌱 I’m currently learning Java, MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asumerkin@bk.ru
